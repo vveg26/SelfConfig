@@ -17,7 +17,9 @@
     3. https://proxy.yugogo.xyz/vmess/sub
 
 ## 订阅转换网址
-    https://sub.v1.mk/
+     https://sub.v1.mk/
+> 将v2ray链接转换为clash订阅
+
 
 ## 客户端软件推荐
 [客户端软件推荐](./AppGo.md)
