@@ -1,0 +1,45 @@
+---
+
+layout:     post
+title:     Clash订阅制作
+subtitle:   谷歌云盘和github制作订阅
+date:       2022-1-7
+author:     veg
+header-img: img/home-bg.jpg
+catalog: true
+tags:
+    - Proxy
+
+---
+
+# Clash订阅托管
+
+## 谷歌云盘托管文件，直接分享下载链接
+
+1. 登录谷歌云盘，上传文件到谷歌云盘上
+2. 右键文件⇒共享，将权限改为“知道链接的任何人”
+
+![](https://raw.githubusercontent.com/vveg26/blog_photos/master/proxy/clash/clash_sub/clash_sub_1.png)
+
+1. 基于上一步获得的文件预览链接地址，如果我们直接打开分享链接，它会显示文件的预览而不是下载。我们要生成直接的下载链接，可以非常简单完成，你可以借助第三方在线网站生成，在熟悉了规则之后，我发现只需要将/d/xxxxxxxxxxx/view链接中的这一串文件ID值拼接在固定的链接后面即可。
+2. 所以我们将链接中的选中部分复制出来
+
+![](https://raw.githubusercontent.com/vveg26/blog_photos/master/proxy/clash/clash_sub/clash_sub_2.png)
+
+1. 拼接到下载直链的固定前缀后面  
+   
+    https://drive.google.com/uc?export=download&id=
+
+拼接上文件的唯一ID值：https://drive.google.com/uc?export=download&id=1JJvPXao_-oW40mYMMARlvUr5Yj2l_nO0
+
+1. 现在我们访问该地址将会自动进行下载，而不再是跳转到文件预览。
+2. 可以做clash订阅用哦，下面的也可以
+
+## Github的Raw托管
+
+1. 将文件上传至github仓库
+2. 点进文件去，点击raw，即可获取分享链接
+
+![](https://raw.githubusercontent.com/vveg26/blog_photos/master/proxy/clash/clash_sub/clash_sub_3.png)
+
+1. 将链接复制就行
