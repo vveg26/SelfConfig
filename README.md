@@ -18,11 +18,11 @@
 
 ## 订阅转换网址
      https://sub.v1.mk/
-> 将v2ray链接转换为clash订阅
+    将v2ray链接转换为clash订阅
 
 
 ## 客户端软件推荐
 [客户端软件推荐](./AppGo.md)
 
 
-联系邮箱：vegforwork@gmail.com
+> 联系邮箱：vegforwork@gmail.com
