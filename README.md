@@ -18,7 +18,7 @@
 
 
 ## 客户端软件推荐
-    [客户端软件推荐](./客户端推荐.md)
+    [客户端软件推荐] (www.baidu.com)
 
 ### 介绍
 - SS = [Shadowsocks](https://zh.wikipedia.org/wiki/Shadowsocks)
