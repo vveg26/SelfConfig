@@ -1,24 +1,23 @@
 # 各类配置文件
+
 ## 文件描述
 1. rules.conf   小火箭配置文件
 2. config.ini   谷歌包配置文件
 
-
 ## 订阅链接
-## 更新时间：2022-01-31
-## Clash订阅
-### 订阅：
+> 更新时间：2022-01-31
+
+### Clash订阅:
     1. https://raw.githubusercontent.com/freebaipiao/freebaipiao/main/GfwserveClash.yaml
     2. https://free886.herokuapp.com/clash/proxies?type=ss,ssr,vmess&c=HK,TW,US
 
-## v2ray订阅
-### 订阅
+### v2ray订阅:
     1. https://raw.fastgit.org/freefq/free/master/v2
     2. https://vproxy.us/api/v1/client/subscribe?token=68bcfeb85a9297af7f1ba2cfec294916
     3. https://proxy.yugogo.xyz/vmess/sub
 
-## 客户端软件推荐
 
+## 客户端软件推荐
 > 原文出处:[SS/SSR/V2Ray/Clash 简介和客户端软件下载](https://congcong0806.github.io/2018/04/20/SS)
 
 ### 介绍
@@ -298,9 +297,6 @@
 - macOS: Surge Mac, Clash for Windows, ClashX, [TrojanX](https://github.com/JimLee1996/TrojanX/releases)
 - Linux: Clash
 -->
-
-### Telegram 客户端 Proxy 代理设置
-<https://telegra.ph/Telegram-Proxy-02-15>
 
 ### 耗电/流量
 *为什么使用了代理应用后在电量统计中显示耗电很多？*<br/>
