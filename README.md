@@ -18,7 +18,7 @@
 
 
 ## 客户端软件推荐
-> 原文出处:[SS/SSR/V2Ray/Clash 简介和客户端软件下载](https://congcong0806.github.io/2018/04/20/SS)
+    [客户端软件推荐](./客户端推荐.md)
 
 ### 介绍
 - SS = [Shadowsocks](https://zh.wikipedia.org/wiki/Shadowsocks)
