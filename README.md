@@ -53,13 +53,7 @@
 ##### iOS 客户端 (全区可下载,包括中区)
 - [Outline](https://apps.apple.com/cn/app/outline-app/id1356177741) (支持SS)
 
-<!--
-- [Maomi](https://testflight.apple.com/join/LAn6mLkU) iOS 上的 Clash 客户端
-- [Choc](https://testflight.apple.com/join/J5QPqXKO) iOS 上的 Clash 客户端
-- [Stash](https://testflight.apple.com/join/D80sykNg) iOS 上的 Clash 客户端
-- [BananaNet](https://testflight.apple.com/join/v5x8B81b)
-- [OneClick](https://testflight.apple.com/join/AeKtEOD3)
--->
+
 
 ##### iOS 客户端 (中区无法下载,其他区可下载)
 - [Surge iOS](https://apps.apple.com/us/app/id1442620678) 更新订阅制,首年:$49.99,次年开始:$14.99/年 (支持Snell/SS/Vmess/VmessAEAD/Trojan)
