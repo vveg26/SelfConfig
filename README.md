@@ -16,8 +16,8 @@
     2. https://vproxy.us/api/v1/client/subscribe?token=68bcfeb85a9297af7f1ba2cfec294916
     3. https://proxy.yugogo.xyz/vmess/sub
 
+## 订阅转换网址
+    https://sub.v1.mk/
 
 ## 客户端软件推荐
 [客户端软件推荐](./AppGo.md)
-
-
