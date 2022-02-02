@@ -13,8 +13,7 @@
 
 ### v2ray订阅:
     1. https://raw.fastgit.org/freefq/free/master/v2
-    2. https://vproxy.us/api/v1/client/subscribe?token=68bcfeb85a9297af7f1ba2cfec294916
-    3. https://proxy.yugogo.xyz/vmess/sub
+    2. https://proxy.yugogo.xyz/vmess/sub
 
 ## 订阅转换网址
      https://sub.v1.mk/
