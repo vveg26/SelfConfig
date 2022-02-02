@@ -5,7 +5,7 @@
 2. config.ini   谷歌包配置文件
 
 ## 订阅链接
-> 更新时间：2022-01-31
+> 更新时间：2022-02-02
 
 ### Clash订阅:
     1. https://raw.githubusercontent.com/freebaipiao/freebaipiao/main/GfwserveClash.yaml
