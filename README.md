@@ -6,7 +6,7 @@
 
 ## 订阅链接
 > 更新时间：2022-02-02
-
+> 参考 https://merlinblog.xyz/wiki/freess.html
 ### Clash订阅:
     https://raw.githubusercontent.com/freebaipiao/freebaipiao/main/GfwserveClash.yaml
     
