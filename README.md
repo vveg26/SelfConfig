@@ -1,5 +1,11 @@
 # 各类配置文件
 
+<details>
+<summary>展开查看</summary>
+<pre><code>
+System.out.println("Hello to see U!");
+</code></pre>
+</details>
 
 ## 订阅链接
 > 更新时间：2022-02-02
