@@ -1,16 +1,15 @@
 # 各类配置文件
 
-<details>
-<summary>展开查看</summary>
-<pre><code>
-System.out.println("Hello to see U!");
-</code></pre>
-</details>
+
 
 ## 订阅链接
 > 更新时间：2022-02-02
 > 参考 https://merlinblog.xyz/wiki/freess.html
 ### Clash订阅:
+
+<details>
+<summary>展开查看</summary>
+<pre><code>
     https://raw.githubusercontent.com/freebaipiao/freebaipiao/main/GfwserveClash.yaml
     
     https://free886.herokuapp.com/clash/proxies?type=ss,ssr,vmess&c=HK,TW,US
@@ -22,6 +21,9 @@ System.out.println("Hello to see U!");
     https://suo.yt/eISANx9
 
     https://mkkhack.pw/Clash
+</code></pre>
+</details>
+
 
 ### v2ray订阅:
     https://raw.fastgit.org/freefq/free/master/v2
