@@ -51,7 +51,7 @@
 
 
 ## 客户端软件推荐
-[客户端软件推荐](./Blog/Proxy/ProxyApp.md)
+[客户端软件推荐](./ProxyApp.md)
 
 ## 软件使用教程
    [v2rayN](https://www.youtube.com/watch?v=pWpP1mrhL7w)
